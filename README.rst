@@ -32,6 +32,7 @@ Documentation is currently available in reST (http://en.wikipedia.org/wiki/ReStr
 - Public Static methods: http://github.com/aino/galleria/blob/master/docs/public-static-methods.rst
 - Public variables: http://github.com/aino/galleria/blob/master/docs/public-variables.rst
 - Flickr Plugin: http://github.com/aino/galleria/blob/master/docs/plugin-flickr.rst
+- Fotki Plugin: http://github.com/2bj/galleria/blob/master/docs/plugin-fotki.rst
 - History Plugin: http://github.com/aino/galleria/blob/master/docs/plugin-history.rst
 - SlideShowPro Plugin: http://github.com/aino/galleria/blob/master/docs/plugin-slideshowpro.rst
 - DOM structure: http://github.com/aino/galleria/blob/master/docs/dom.rst
