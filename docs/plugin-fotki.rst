@@ -10,7 +10,7 @@ Example usage
 **note:** You must include the Fotki.Yandex plugin script at ``src/plugins/galleria.yafotki.js`` to use this plugin.
 
 
-    var user = 'ya2bj'
+    var user = 'ya2bj';
     var fotki = new Galleria.Fotki(user);
 
     fotki.getAllPhotos(function(data) {
