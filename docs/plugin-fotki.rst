@@ -13,10 +13,13 @@ Real work example http://2bj.github.com/galleria/demos/plugin-fotki.html
 
     var user = 'ya2bj';
     var fotki = new Galleria.Fotki(user);
+    var album = 1234;
 
-    fotki.getAllPhotos(function(data) {
-        $('#galleria').galleria({
-            data_source: data
-        });
+    fotki.getAlbum(album,function(data) {
+        Galleria.run('.galleria', {
+        dataSource: data
+      });
     });
+
+
     

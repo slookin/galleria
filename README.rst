@@ -17,7 +17,9 @@ Documentation
 =============
 
 Documentation is currently available in reST (http://en.wikipedia.org/wiki/ReStructuredText) format in the repository. 
+
 You can build local HTML using Sphinx: http://sphinx.pocoo.org/
+
 Direct links to sections at gitHub:
 - Getting started: http://github.com/aino/galleria/blob/master/docs/getting-started.rst
 - Extending Galleria: http://github.com/aino/galleria/blob/master/docs/extending-galleria.rst
